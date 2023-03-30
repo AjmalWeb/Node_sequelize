@@ -1,0 +1,19 @@
+{
+  "name": "mysql-new-sequelize",
+  "version": "1.0.0",
+  "description": "new_sequelize_sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "mysql2": "^3.0.0",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.28.0",
+    "zlib": "^1.0.5"
+  }
+}
